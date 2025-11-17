@@ -36,7 +36,7 @@ This repository serves as a central hub to explore all my work in **Data Analyti
 ## ⚙️ Automation & Utilities
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Excel VBA Automation Suite](https://github.com/sagar2168616/vba-automation) | Automated data cleaning & reporting macros | Excel, VBA |
+| [Excel VBA Automation Suite](https://github.com/sagar2168616/VBA) | Automated data cleaning & reporting macros | Excel, VBA |
 
 ---
 
