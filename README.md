@@ -9,8 +9,8 @@ This repository serves as a central hub to explore all my work in **Data Analyti
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [Thermophysical Property Prediction](https://github.com/sagar2168616/Thermophysical-Property-Melting-Point) | Regression model predicting melting point of organic compounds | Python, Pandas, XGBoost |
-| [Heart Disease Prediction](https://github.com/sagar2168616/Heart-Disease-Prediciton) | Binary classification model predicting heart disease | Pandas, Numpy, Seaborn, scikit-learn, Matplotlib |
-| [Loan Eligibility Prediction](https://github.com/sagar2168616/Loan-Eligibility-Prediction) | Predicts loan eligibility using ML algorithms | Python, Pandas |
+| [Heart Disease Prediction](https://github.com/sagar2168616/Heart-Disease-Prediciton) | Binary classification model predicting heart disease | Pandas, Numpy, Seaborn, scikit-learn, Matplotlib, Seaborn |
+| [Loan Eligibility Prediction](https://github.com/sagar2168616/Loan-Eligibility-Prediction) | Predicts loan eligibility using ML algorithms | Pandas, Numpy, Seaborn, scikit-learn, Matplotlib, Seaborn |
 | [Customer Behavior in Flight Booking](https://github.com/sagar2168616/Predicting-Customer-Behaviour-in-Flight-Ticket-Booking) | Behavior prediction using flight booking data | Python, NumPy |
 
 ---
