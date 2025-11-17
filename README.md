@@ -28,8 +28,8 @@ This repository serves as a central hub to explore all my work in **Data Analyti
 |----------|--------------|-------|
 | [Data Science Salaries EDA](https://github.com/sagar2168616/EDA-Data-Science-Salaries-2023) | Salary trend visualization and analysis | Python, Seaborn |
 | [YouTube Trending Videos EDA](https://github.com/sagar2168616/Youtube-trending-videos-EDA) | Insights from trending YouTube data | Pandas, Matplotlib |
-| [Tableau Dashboards](https://public.tableau.com/app/profile/sagar5773)
-| [Power BI](https://github.com/sagar2168616/Power-BI--Market-Cap-Visual) | Excel, Power Query, DAX, Stacked Bar Chart |
+| [Tableau Dashboards](https://public.tableau.com/app/profile/sagar5773) | | Excel |
+| [Power BI](https://github.com/sagar2168616/Power-BI--Market-Cap-Visual) | | Excel, Power Query, DAX, Stacked Bar Chart |
 
 ---
 
