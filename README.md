@@ -37,7 +37,6 @@ This repository serves as a central hub to explore all my work in **Data Analyti
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [Excel VBA Automation Suite](https://github.com/sagar2168616/vba-automation) | Automated data cleaning & reporting macros | Excel, VBA |
-| [Online Shopping Dataset Analysis](https://github.com/sagar2168616/online-shopping-analysis) | EDA on customer shopping trends | Python, Excel |
 
 ---
 
